@@ -50,6 +50,9 @@ ready for</b>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000000?style=flat&logo=postgresql)
+![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
   
   
