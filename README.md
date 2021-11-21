@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aganze Mataba</h1>
 
 <p align="center" ><img 
- src="portf.png" width="100%"/></p>
+ src="port.png" width="100%"/></p>
 
 <h3 align="center">Software Engineer</h3>
 <p align="center">
