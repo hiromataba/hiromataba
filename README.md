@@ -58,7 +58,7 @@ ready for</b>
   
 <hr>
   
- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiromataba&show_icons=true&locale=en" alt="akash-chowrasia" width="410" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiromataba&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+ <p align="center">&nbsp;<img align="center" height="145px" src="https://github-readme-stats.vercel.app/api?username=hiromataba&show_icons=true&bg_color=fbfaf9&hide_border=true&line_height=21" style="width:100%;"  />
+  <img align="center" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiromataba&hide=rails&layout=compact&bg_color=fbfaf9&hide_border=true&" style="width:100%;" /></p>
 
 
