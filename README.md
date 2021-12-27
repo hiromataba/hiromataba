@@ -13,7 +13,6 @@
 
 <p align="center">
   <em>
-   Feel Free to call me Aganze Mataba , a <b>final year</b> undergraduate from <a href="https://www.ulk.ac.rw/"> <b>Kigali Independent University<br></a>
     <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Addicted to Programming</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>always <b>
 ready for</b>
      new challenges to 
@@ -28,11 +27,9 @@ ready for</b>
   <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
-- 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently learning React .
-- 👯 I’m looking to collaborate on Frontend-Web and IoT projects.
-- 🤔 I’m looking for help with React.
-- 💬 Ask me about Javascript, Front-end Web Development, Any tech-related stuff.
+- 👯 I’m looking to collaborate on Full-stack-Web application and IoT projects.
+- 🤔 I’m looking for new opportunities.
+- 💬 Ask me about Javascript,Ruby, Full-stack Web Development, Any tech-related stuff.
   
   <br>
 
